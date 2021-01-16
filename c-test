@@ -1,4 +1,7 @@
 #includ <stdio.h>
 int main()
 {
-  int 
+  int a;
+  printf("%d/n",a);
+  return 0;
+ }
